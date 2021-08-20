@@ -71,7 +71,7 @@ export default function App(){
       <Text style={styles.TextResult}>Estado:{apiResposta.uf}</Text>
       </View> : 
       <View style={styles.viewResult}>
-        <Text style={[,styles.TextResult,{marginBottom:10,color:'green'}]}>FAÇA SUA BUSCA !</Text>
+        <Text style={[,styles.TextResult,{marginBottom:10,color:'green'}]}>FAÇA SUA BUSCA !!</Text>
       </View>
     }
     
